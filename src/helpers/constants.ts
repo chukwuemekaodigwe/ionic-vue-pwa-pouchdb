@@ -1,0 +1,7 @@
+export const SERVICE_ID = 'service_n838kap'
+export const EMAIL_TEMP = 'template_o5rv2ao'
+export const USER_ID = 'EfFOAwQa2nl3TbZeh'
+export const COMPANY_NAME = 'Inventory Systems'
+export const URL = 'http://localhost:5173/'
+export const EMAIL_FROM = 'info@business-mgr.com'
+export let DB_KEY = ''
